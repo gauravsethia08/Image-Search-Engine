@@ -8,5 +8,6 @@ Differece hashig is used to generate the hash code.
 
 # Command to Check Query File
 >python searxh.py --tree vptree.pickle --hashes hashes.pickle --query queries/file_name --distance nearer_distance
+
 *distance is optional
 
