@@ -7,7 +7,7 @@ Differece hashig is used to generate the hash code.
 >python index_images.py --images 101_ObjectCategories --tree vptree.pickle --hashes hashes.pickle
 
 # Command to Check Query File
->python searxh.py --tree vptree.pickle --hashes hashes.pickle --query queries/file_name --distance nearer_distance
+>python searxh.py --tree vptree.pickle --hashes hashes.pickle --query queries/file_name --distance threshold
 
 *distance is optional
 
